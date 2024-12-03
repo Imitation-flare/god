@@ -3,7 +3,7 @@
         {
             "imageName": "discard",
             "category": "trade",
-            "ability": "exchange",
+            "ability": "discard",
             "name": "捨てる"
         },
         {
@@ -42,7 +42,7 @@
             "atk": 1,
             "price": 1,
             "giftRate": 3,
-            "name": "銅のののなな棒"
+            "name": "銅のこん棒"
         },
         {
             "imageName": "silver-club",
@@ -585,7 +585,7 @@
             "atk": 2,
             "price": 2,
             "giftRate": 1,
-            "name": "いばらのムチ"
+            "name": "MEM"
         },
         {
             "imageName": "leaf-shuriken",
