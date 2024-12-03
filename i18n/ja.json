@@ -3,7 +3,7 @@
         {
             "imageName": "discard",
             "category": "trade",
-            "ability": "discard",
+            "ability": "exchange",
             "name": "捨てる"
         },
         {
