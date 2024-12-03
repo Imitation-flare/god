@@ -3,7 +3,7 @@
         {
             "imageName": "discard",
             "category": "trade",
-            "ability": "exchange",
+            "ability": "discard",
             "name": "捨てる"
         },
         {
@@ -2087,7 +2087,7 @@
             "hitRate": 75,
             "cost": 10,
             "giftRate": 1,
-            "name": "＜マグマ＞"
+            "name": "＜隕石＞"
         },
         {
             "imageName": "ice-age",
@@ -2660,7 +2660,7 @@
             "element": "darkness",
             "atk": 30,
             "hitRate": 75,
-            "name": "ブラックホール"
+            "name": "堕天弓"
         },
         {
             "imageName": "warm-current",
@@ -2761,7 +2761,7 @@
             "heaven": "天国病",
             "fog": "霧",
             "flash": "閃光",
-            "dream": "夢",
+            "dream": "幻覚",
             "darkcloud": "暗雲"
         },
         "curseDescriptions": {
@@ -2809,10 +2809,10 @@
             "duel": "2人個人戦"
         },
         "home": {
-            "design": "設計",
-            "designCredit": "グウジ",
-            "art": "美術",
-            "artCredit": "あみ",
+            "design": "改造",
+            "designCredit": "イミタシオ",
+            "art": "改悪まみれ",
+            "artCredit": "グウジ",
             "userName": "預言者の名前",
             "setUserName": "生誕する",
             "userNameEmpty": "預言者の名前を<br>入力してください",
@@ -2862,10 +2862,10 @@
         },
         "room": {
             "showChat": "お告げを表示する",
-            "deny": "部屋から追い出す",
+            "deny": "破門する",
             "chat": "お告げ",
-            "chatToRoom": "部屋にお告げ",
-            "chatToTeam": "チームにお告げ",
+            "chatToRoom": "チャット",
+            "chatToTeam": "チームチャット",
             "chatLog": "お告げの記録",
             "userCount": "預言者 {{count}} 人",
             "users": "預言者",
@@ -2877,7 +2877,7 @@
             "teams": "チーム戦",
             "shuffleTeams": "チームをシャッフル",
             "tiebreaker": "終末の時",
-            "tiebreakerOff": "なし",
+            "tiebreakerOff": "ピースフル！",
             "addGame": "戦いを始める"
         },
         "game": {
@@ -2904,7 +2904,7 @@
             "opening": "預言者たちの戦いが<br>今始まる！",
             "tiebreaker": "- 終末の時 -",
             "tiebreakerBody": "悪魔がやって来る",
-            "endingWin": "勝利",
+            "endingWin": "決着",
             "endingDraw": "そしてだれも いなくなった",
             "removeGame": "戦いを終わる"
         },
@@ -2951,7 +2951,7 @@
             "counterTakeCP": "¥{ダメージ} 没収",
             "boostSomething": "+HP{{value}} +MP{{value}}<br>または +¥{{value}}",
             "addCurseOnDamage": "ダメージで{{curse}}",
-            "selfCurse": "使用者に{{curse}}",
+            "selfCurse": "近所迷惑だ馬鹿野郎<br>使用者に{{curse}}",
             "selfCurseAndRedraw": "使用者に{{curse}}と神器一新",
             "setCurseOfEverybody": "みんなに{{curse}}",
             "removeMildCurses": "風邪 熱病 霧 閃光<br>の災いを払う",
@@ -2966,7 +2966,7 @@
             "callPhenomenon": "超常現象が起こる"
         },
         "alerts": {
-            "pray": "武器を所持していると祈れない",
+            "pray": "国会議員はそれは良い考えだと言った",
             "discard": "捨てる神器が選ばれていない",
             "sacrifice": "ささげる神器が選ばれていない",
             "sell": "売る神器が選ばれていない",
