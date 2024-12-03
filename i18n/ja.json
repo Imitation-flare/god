@@ -1529,7 +1529,7 @@
             "curse": "fever",
             "price": 10,
             "giftRate": 1,
-            "name": "熱狂仮面"
+            "name": "発狂仮面"
         },
         {
             "imageName": "glittering-dress",
@@ -2951,7 +2951,7 @@
             "counterTakeCP": "¥{ダメージ} 没収",
             "boostSomething": "+HP{{value}} +MP{{value}}<br>または +¥{{value}}",
             "addCurseOnDamage": "ダメージで{{curse}}",
-            "selfCurse": "近所迷惑だ馬鹿野郎<br>使用者に{{curse}}",
+            "selfCurse": "近所迷惑だ馬鹿野郎",
             "selfCurseAndRedraw": "使用者に{{curse}}と神器一新",
             "setCurseOfEverybody": "みんなに{{curse}}",
             "removeMildCurses": "風邪 熱病 霧 閃光<br>の災いを払う",
